@@ -8,7 +8,7 @@ This project served as a hands-on learning experience for building a complete Un
 プレイヤーの動き、物理演算、アニメーション、ゲームループのロジックなど、ゲーム開発の基本概念を学ぶために制作されました。  
 このプロジェクトは、Unityを使ったゲーム制作を実践的に学ぶためのハンズオン学習として取り組みました。
 
-## About the Project
+## 🇺🇸 About the Project
 - Built using the Unity Game Engine 
 - Features a player character that can move, jump, and navigate floating clouds
 - Includes basic physics, animations, collision detection, and score tracking
@@ -16,7 +16,7 @@ This project served as a hands-on learning experience for building a complete Un
 - Code is written with the help of online tutorials and documentation
 - Art assets and sprites sourced from online platforms
 
-## プロジェクト概要
+## 🇯🇵 プロジェクト概要
 - プレイヤーキャラクターは移動・ジャンプ・浮遊する雲の上を移動可能
 - 基本的な物理演算、アニメーション、当たり判定、スコアの記録を実装
 - プラットフォーマーのメカニクスを試すためのプロトタイプとして設計
